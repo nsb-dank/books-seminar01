@@ -29,5 +29,5 @@
 
 ![立体図](./img/answer_map05.png)
 
-[Webで表示した立体図](https://nsb-dank.github.io/GitBook/doc_02/3d/3D.html)です。
+[Webで表示した立体図](https://nsb-dank.github.io/books-seminar01/3d/3D.html)です。
 
